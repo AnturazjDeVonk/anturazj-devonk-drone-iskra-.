@@ -1,4 +1,4 @@
-![19575](https://github.com/user-attachments/assets/e092180f-05b2-4a41-babb-8308ae5bdc6a)
+
 <!DOCTYPE html>
 <html lang="nl">
 <head>
